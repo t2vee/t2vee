@@ -6,7 +6,7 @@ Hippety Hoppety Hi!
 gameservers, etc for not only me but other people too
 
 If you want to contact me either discord or email is the best
-Discord: 
+Discord: perfection#5919 or perfection@ore.ink
 
 <!---
 toastontoast/toastontoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
