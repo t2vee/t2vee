@@ -14,3 +14,16 @@ You can click the Preview link to take a look at your changes.
 <br><a class="item" href="https://freebsd.org"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/power_logo.gif"></a>
 <a class="item" href="https://freebsd.org"><img style="width: 200px;" src="https://cdn.t2v.city/content/misc/bsdbump.gif"></a>
 <a class="item" href="https://dell.com"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/dell-banner.jpg"></a>
+<hr>
+<h1>My current homelab:</h1>
+
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/PatchPanel.webp">
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/HPPowerCurve.webp">
+<br><img style="width: 175px;" src="https://content.vee.city/content/misc/github_profile/DellOptiplex7050.webp"><img style="width: 175px;" src="https://content.vee.city/content/misc/github_profile/DellOptiplex7050.webp">
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/DellPowerEdgeR210.webp">
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/DellPowerEdgeR610.webp">
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/DellPowerEdgeR710.webp">
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/PowerVaultMD1200.webp">
+<br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/DellEMCPowerEdgeR740.webp">
+
+
