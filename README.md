@@ -1,4 +1,4 @@
-[![Header image](https://static-cdn.t2v.ch/content/KQgCslvqJtiMCkBKQmZp/github.com/img/sittingcat.png)](http://t2v.city)
+[![Header image](https://static-cdn.t2v.ch/content/KQgCslvqJtiMCkBKQmZp/github.com/img/sittingcat.png)](http://t2v.city) sad cat 😔
 
 I code things?
 </br>I enjoy selfhosting and homlabbing a lot
@@ -7,13 +7,7 @@ toastontoast/toastontoast is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<a class="item" href="https://freebsd.org"><img style="width: 500px;" src="https://cdn.t2v.city/content/misc/logo-red.png"></a>
-<br><a class="item" href="https://hardenedbsd.org"><img style="width: 200px;" src="https://cdn.t2v.city/content/misc/bsd_optimised.webp"></a>
-<a class="item" href="https://debian.org"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/Powered_by_Debian.svg.png"></a>
-<a class="item" href="https://debian.org"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/d2hwzb4-58e7e108-a98a-4986-a0a5-2ff2622a5436.png"></a>
-<br><a class="item" href="https://freebsd.org"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/power_logo.gif"></a>
-<a class="item" href="https://freebsd.org"><img style="width: 200px;" src="https://cdn.t2v.city/content/misc/bsdbump.gif"></a>
-<a class="item" href="https://dell.com"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/dell-banner.jpg"></a>
+
 <hr>
 <h1>My current homelab:</h1>
 
@@ -25,5 +19,9 @@ You can click the Preview link to take a look at your changes.
 <br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/DellPowerEdgeR710.webp">
 <br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/PowerVaultMD1200.webp">
 <br><img style="width: 350px;" src="https://content.vee.city/content/misc/github_profile/DellEMCPowerEdgeR740.webp">
-
-
+<br>
+<h2>Powered By:</h2>
+<a class="item" href="https://freebsd.org"><img style="width: 500px;" src="https://cdn.t2v.city/content/misc/logo-red.png"></a>
+<br><a class="item" href="https://hardenedbsd.org"><img style="width: 200px;" src="https://cdn.t2v.city/content/misc/bsd_optimised.webp"></a>
+<a class="item" href="https://freebsd.org"><img style="width: 200px;" src="https://cdn.t2v.city/content/misc/bsdbump.gif"></a>
+<a class="item" href="https://debian.org"><img style="width: 150px;" src="https://cdn.t2v.city/content/misc/d2hwzb4-58e7e108-a98a-4986-a0a5-2ff2622a5436.png"></a>
